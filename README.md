@@ -17,5 +17,5 @@
 - **28-08-2021 :** [Link](https://transcripts.gotomeeting.com/#/s/405bf6a0b5089c7c35b5f4833abe9903e0a88453a374f016d969658df8c64bc3)
 - **31-08-2021 :** [Link](https://transcripts.gotomeeting.com/#/s/0c9e06958275ef3f139647b120404899ea1af2044dbd5ead4d3947f8ef06badd)
 - **01-09-2021 :** [Link](https://transcripts.gotomeeting.com/#/s/e617e9f38cf8739ed0f736538f23a5ded4ab6cc6c47afb97b8574bb33d1f2c53)
-
+- **01-09-2021 :** [Link](https://transcripts.gotomeeting.com/#/s/62204a5147c7e5a7bb6a9e7ee1ca194fcbb03ec192b4b6e2bcbca328eaa3f8ea)
 
