@@ -1,6 +1,7 @@
 # Machine-Learning-FDP-Batch1 (16-08-2021 to 04-09-2021)
 
 ### Registered Data [Link](https://docs.google.com/spreadsheets/d/1uV5LkfY0pnTwMTbfWwODO_R8xrk21tyE4WHowXRCKKs/edit?usp=sharing)
+### Recorded Videos drive [Link](https://drive.google.com/drive/folders/1DnDnzOUYsaCSFsp1Rbi1vBsIJvbjP98Y?usp=sharing)
 
 ### Recorded Sessions(NOTE: These links will be expired after this date [28-08-2021] ):
 - **16-08-2021 :** [Link](https://transcripts.gotomeeting.com/#/s/c17fafd0a63ef1bd7972154209f43cbe4e01c25007cc333fb4da7241707f5eed)
